@@ -1,1 +1,1 @@
-this is new line for test
+this is new line for test.
