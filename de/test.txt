@@ -1,3 +1,1 @@
-this is text
-this is text
-this is test
+this is new line
